@@ -10,8 +10,8 @@ running test locally with:
 
 ## progress:
 
-* up to chapter 4 - structs: completed and tested
-* chapter 5 - interfaces: completed and tested
-* chapter 6 - errors: completed and tested
-* chapter 7 - Loops: completed and tested
-* chapter 8 - Slices: unstarted
+* up to chapter 4 - Structs:    completed and tested
+* chapter 5 -       Interfaces: completed and tested
+* chapter 6 -       Errors:     completed and tested
+* chapter 7 -       Loops:      completed and tested
+* chapter 8 -       Slices:     12/16 + 0/6 challenges
