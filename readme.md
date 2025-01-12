@@ -14,4 +14,4 @@ running test locally with:
 * chapter 5 -       Interfaces: completed and tested
 * chapter 6 -       Errors:     completed and tested
 * chapter 7 -       Loops:      completed and tested
-* chapter 8 -       Slices:     12/16 + 0/6 challenges
+* chapter 8 -       Slices:     16/16 + 2/6 challenges
