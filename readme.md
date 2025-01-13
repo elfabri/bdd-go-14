@@ -15,4 +15,5 @@ running test locally with:
 * chapter 6 -       Errors:     completed and tested
 * chapter 7 -       Loops:      completed and tested
 * chapter 8 -       Slices:     completed and tested
-* chapter 9 -       Map:        10/10 lessons 0/3 challenges
+* chapter 9 -       Map:        completed and tested
+* chapter 10 -      Pointers:   unstarted
