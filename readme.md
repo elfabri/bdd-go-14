@@ -21,4 +21,5 @@ go test ./*_test.go ./main.go -v
 * chapter 9 -       Map:            completed and tested
 * chapter 10 -      Pointers:       completed and tested
 * chapter 11 -      Packages
-                    and Modules:    unstarted
+                    and Modules:    completed and tested
+* chapter 12 -      Channels:       unstarted
