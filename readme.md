@@ -23,4 +23,7 @@ go test ./*_test.go ./main.go -v
 * chapter 11 -      Packages
                     and Modules:    completed and tested
 * chapter 12 -      Channels:       completed and tested
-* chapter 13 -      Mutexes:        unstarted
+* chapter 13 -      Mutexes:        completed and tested
+* chapter 14 -      Generics:       completed and tested
+* chapter 15 -      Enums:          completed and tested
+* chapter 16 -      Quiz:           a
