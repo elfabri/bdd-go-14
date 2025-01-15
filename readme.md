@@ -22,4 +22,5 @@ go test ./*_test.go ./main.go -v
 * chapter 10 -      Pointers:       completed and tested
 * chapter 11 -      Packages
                     and Modules:    completed and tested
-* chapter 12 -      Channels:       unstarted
+* chapter 12 -      Channels:       completed and tested
+* chapter 13 -      Mutexes:        unstarted
